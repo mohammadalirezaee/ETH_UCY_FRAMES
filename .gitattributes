@@ -1,0 +1,5 @@
+crowds_zara01_frames filter=lfs diff=lfs merge=lfs -text
+crowds_zara02_frames filter=lfs diff=lfs merge=lfs -text
+seq_eth_frames filter=lfs diff=lfs merge=lfs -text
+seq_hotel_frames filter=lfs diff=lfs merge=lfs -text
+students003_frames filter=lfs diff=lfs merge=lfs -text
